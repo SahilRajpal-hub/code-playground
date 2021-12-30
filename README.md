@@ -30,12 +30,12 @@ This project is backend of code-playground app and intended for intern applicati
 
 ## APIs Endpoint
 
-# [BASE_URL]/api/v1/snippet -> GET => To get the code files
+### [BASE_URL]/api/v1/snippet -> GET => To get the code files
 
-# [BASE_URL]/api/v1/snippet -> POST => To save the code files
+### [BASE_URL]/api/v1/snippet -> POST => To save the code files
 
-# [BASE_URL]/api/v1/execute/cpp -> POST => To execute the cpp code
+### [BASE_URL]/api/v1/execute/cpp -> POST => To execute the cpp code
 
-# [BASE_URL]/api/v1/execute/java -> POST => To execute the java code
+### [BASE_URL]/api/v1/execute/java -> POST => To execute the java code
 
-# [BASE_URL]/api/v1/execute/py -> POST => To execute the py code
+### [BASE_URL]/api/v1/execute/py -> POST => To execute the py code
